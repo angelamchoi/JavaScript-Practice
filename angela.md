@@ -1,8 +1,7 @@
 # Angela Choi - Links
 ### Unit 1
-* []
-* [Lab Name](link-to-lab)
-* [Lab Name](link-to-lab)
+* [JS Arrays Lab](link-to-lab)
+* [CSS Selectors Lab](link-to-lab)
 ### Unit 2
 * [Lab Name](link-to-lab)
 * [Lab Name](link-to-lab)
