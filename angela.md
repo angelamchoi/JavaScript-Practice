@@ -1,18 +1,28 @@
 # Angela Choi - Links
+
 ### Unit 1
-* [JS Arrays Lab](link-to-lab)
-* [CSS Selectors Lab](link-to-lab)
+* 🔎[JS Arrays Lab](https://github.com/angelamchoi/js-array-lab/blob/main/index.js)
+* 🖌[CSS Selectors Lab](https://github.com/angelamchoi/CSS-Selectors_Lab)
+* 🎡[Functions Lab](https://github.com/angelamchoi/js-functions-lab)
+* 💻[DOM Lab Part 1 & 2]
+* 🎮[Tice Tac Toe]
+* 💪[CSS Flexbox Grid Lab]
+* 💲[jQuery Lab]
+
+
 ### Unit 2
-* [Lab Name](link-to-lab)
-* [Lab Name](link-to-lab)
-* [Lab Name](link-to-lab)
+[Express Dev Skills]
+[Mongoose Flights 1,2,&3]
+[JS Promises Lab]
+
 ### Unit 3
-* [Lab Name](link-to-lab)
-* [Lab Name](link-to-lab)
+[Caremn Sandiego SQL Lab]
+[Python Control Flow Lab]
+[Python Containers Lab]
+[Python Functions Lab]
+[Django Collector Lab -Redo Django Lessons]
+
 ### Unit 4
-* [Lab Name](link-to-lab)
-* [Lab Name](link-to-lab)
-### Projects
-* [Project 1 - Code](link)
-* [Project 1 - Site](deployed link)
-* [Unit 1 Assement](link)
+[React Floorplan Lab]
+[React Students Lab]
+[React AJAX Lab Choice from 2]
