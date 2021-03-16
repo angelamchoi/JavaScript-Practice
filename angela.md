@@ -4,7 +4,7 @@
 * 🔎[JS Arrays Lab](https://github.com/angelamchoi/js-array-lab/blob/main/index.js)
 * 🖌[CSS Selectors Lab](https://github.com/angelamchoi/CSS-Selectors_Lab)
 * 🎡[Functions Lab](https://github.com/angelamchoi/js-functions-lab)
-* 💻[DOM Lab Part 1 & 2]
+* 💻[DOM Lab Part 1 & 2](https://github.com/angelamchoi/js-dom-lab)
 * 🎮[Tice Tac Toe]
 * 💪[CSS Flexbox Grid Lab]
 * 💲[jQuery Lab]
