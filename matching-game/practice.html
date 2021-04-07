@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matching Memory Game</title>
+    
+    <link rel= "stylesheet" href="styles.css">
+    <script defer src="main.js"></script>
+</head>
+<body>
+    <h1> Matching Memory Game</h1>
+    <div class = "game-container">
+        <div class ="score">
+            Score: <span id= "score">0</span>
+        </div>
+        <div class = "time">
+            Time: <span id = "time">160</span>
+        </div>
+    </div>
+    
+    <div class = "card">
+        <div class = "bound" onclick="flip(event)">
+            <div class= "placeholder">
+                <img class="baby-yoda" src = "./pics/baby-yoda.png" alt= "baby yoda">
+            </div>
+            <div class= "card-front">  
+                <img class = "pizza" src = "./pics/pizza.jpg" alt = "pizza in space">
+            </div>
+        </div>
+    </div>
+
+    <div class = "card">
+        <div class = "bound" onclick="flip(event)">
+            <div class= "placeholder">
+                <img class="baby-yoda" src = "./pics/baby-yoda.png" alt= "baby yoda">
+            </div>
+            <div class= "card-front">  
+                <img class = "pikachu" src = "./pics.jpg" alt = "pikachu">
+            </div>
+        </div>
+    </div>
+
+    <div class = "card">
+        <div class = "bound" onclick="flip(event)">
+            <div class= "placeholder">
+                <img class="baby-yoda" src = "./pics/baby-yoda.png" alt= "baby yoda">
+            </div>
+            <div class= "card-front">  
+                <img class = "pikachu" src = "./pics/pikachu.jpg" alt = "pikachu">
+            </div>
+        </div>
+    </div>
+
+    <div class = "card">
+        <div class = "bound" onclick="flip(event)">
+            <div class= "placeholder">
+                <img class="baby-yoda" src = "./pics/baby-yoda.png" alt= "baby yoda">
+            </div>
+            <div class= "card-front">  
+                <img class = "pizza" src = "./pics/pizza.jpg" alt = "pizza">
+            </div>
+        </div>
+    </div>
+
+    <button class = "reset">Reset</button>
+    
+</body>
+</html>

@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matching Memory Game</title>
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;700&display=swap" rel="stylesheet">  
+    
+    <link rel= "stylesheet" href="styles.css">
+    <script defer src="main.js"></script>
+</head>
+<body>
+    <h1> Matching Memory Game</h1>
+    <div class = "game-container">
+        <div class ="score">
+            Score: <span id= "score">0</span>
+        </div>
+        <div class = "time">
+            Time: <span id = "time">160</span>
+        </div>
+        <div class = "math-problems">
+            Question: <span id= "question"></span>
+        </div>
+        <input type = "number" placeholder = "type here"  id = answer> 
+    </div>
+
+<div class ="card-wrapper">
+    <div class = "card">
+        <div class = "bound" data-framework="mario">
+            <div class= "placeholder">
+                <img class ="baby-yoda" src = "./pics/baby-yoda.png" alt= "baby yoda">
+            </div>
+            <div class= "card-front">  
+                <img class = "front" src = "./pics/img_1.png" alt = "mario">
+            </div>
+        </div>
+    </div>
+
+<div class ="card-wrapper">
+     <div class = "card">
+        <div class = "bound" data-framework="mario">
+            <div class= "placeholder">
+                <img class ="baby-yoda" src = "./pics/baby-yoda.png" alt= "baby yoda"/>
+            </div>
+            <div class= "card-front">  
+                <img class = "front" src = "./pics/img_1.png" alt = "mario"/>
+            </div>
+        </div>
+    </div> 
+</div>
+
+<div class ="card-wrapper">
+    <div class = "card">
+        <div class = "bound" data-framework="pikachu">
+            <div class= "placeholder">
+                <img class ="baby-yoda" src = "./pics/baby-yoda.png" alt= "baby yoda"/>
+            </div>
+            <div class= "card-front">  
+                <img class = "front" src = "./pics/img_2.jpg" alt = "pikachu"/>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class ="card-wrapper">
+    <div class = "card">
+        <div class = "bound" data-framework="pikachu">
+            <div class= "placeholder">
+                <img class ="baby-yoda" src = "./pics/baby-yoda.png" alt= "baby yoda"/>
+            </div>
+            <div class= "card-front">  
+                <img class = "front" src = "./pics/img_2.jpg" alt = "pikachu"/>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class ="card-wrapper">
+    <div class = "card">
+        <div class = "bound" data-framework="pizza">
+            <div class= "placeholder">
+                <img class ="baby-yoda" src = "./pics/baby-yoda.png" alt= "baby yoda"/>
+            </div>
+            <div class= "card-front">  
+                <img class = "front" src = "./pics/img_3.jpg" alt = "pizza"/>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class ="card-wrapper">
+    </div><div class = "card">
+        <div class = "bound" data-framework="pizza">
+            <div class= "placeholder">
+                <img class ="baby-yoda" src = "./pics/baby-yoda.png" alt= "baby yoda"/>
+            </div>
+            <div class= "card-front">  
+                <img class = "front" src = "./pics/img_3.jpg" alt = "pizza"/>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class ="card-wrapper">
+    <div class = "card">
+        <div class = "bound" data-framework="poptart">
+            <div class= "placeholder">
+                <img class ="baby-yoda" src = "./pics/baby-yoda.png" alt= "baby yoda"/>
+            </div>
+            <div class= "card-front">  
+                <img class = "front" src = "./pics/img_4.jpg" alt = "poptart cat"/>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class ="card-wrapper"> 
+    <div class = "card">
+        <div class = "bound" data-framework="poptart">
+            <div class= "placeholder">
+                <img class ="baby-yoda" src = "./pics/baby-yoda.png" alt= "baby yoda"/>
+            </div>
+            <div class= "card-front">  
+                <img class = "front" src = "./pics/img_4.jpg" alt = "poptart cat"/>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class ="card-wrapper"> 
+    <div class = "card">
+        <div class = "bound" data-framework= "sandwich">
+            <div class= "placeholder">
+                <img class ="baby-yoda" src = "./pics/baby-yoda.png" alt= "baby yoda"/>
+            </div>
+            <div class= "card-front">  
+                <img class = "front" src = "./pics/img_5.jpg" alt = "sandwich cat"/>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class ="card-wrapper">
+    <div class = "card">
+        <div class = "bound" data-framework="sandwich">
+            <div class= "placeholder">
+                <img class ="baby-yoda" src = "./pics/baby-yoda.png" alt= "baby yoda"/>
+            </div>
+            <div class= "card-front">  
+                <img class = "front" src = "./pics/img_5.jpg" alt = "sandwich cat"/>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class ="card-wrapper">
+    <div class = "card">
+        <div class = "bound" data-framework="space">
+            <div class= "placeholder">
+                <img class ="baby-yoda" src = "./pics/baby-yoda.png" alt= "baby yoda"/>
+            </div>
+            <div class= "card-front">  
+                <img class = "front" src = "./pics/img_6.jpg" alt = "space cat"/>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class ="card-wrapper">
+    <div class = "card">
+        <div class = "bound" data-framework="space">
+            <div class= "placeholder">
+                <img class ="baby-yoda" src = "./pics/baby-yoda.png" alt= "baby yoda"/>
+            </div>
+            <div class= "card-front">  
+                <img class = "front" src = "./pics/img_6.jpg" alt = "space cat"/>
+            </div>
+        </div>
+    </div>
+</div>
+    <button id = "reset">Reset</button> 
+    
+</body>
+</html>
