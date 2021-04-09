@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+>>>>>>> 03f826f70f70d4c76deda1ed4ad3ce6b160d8072
 # Angela Choi - Links
 
 ### Unit 1
@@ -28,4 +32,8 @@
 [React Students Lab]
 [React AJAX Lab Choice from 2]
 =======
+<<<<<<< HEAD
 
+=======
+>>>>>>> ac5b1d6cc1a45478fe77a9adf4c786549628ca18
+>>>>>>> 03f826f70f70d4c76deda1ed4ad3ce6b160d8072
